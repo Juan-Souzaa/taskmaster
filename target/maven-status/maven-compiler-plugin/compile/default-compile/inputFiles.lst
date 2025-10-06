@@ -1,0 +1,15 @@
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\TaskmasterApiApplication.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\repository\TaskRepository.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\exception\InvalidTaskStateException.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\dto\TaskRequestDTO.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\exception\GlobalExceptionHandler.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\exception\ResourceNotFoundException.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\exception\ValidationException.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\controller\TaskController.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\dto\TaskResponseDTO.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\model\Task.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\config\MapperConfig.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\config\SwaggerConfig.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\service\TaskService.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\dto\TaskUpdateDTO.java
+C:\Users\win\Desktop\Facul\apisemicroservicos\taskmaster\src\main\java\com\taskmaster\model\Prioridade.java

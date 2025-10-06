@@ -1,0 +1,11 @@
+
+CREATE TABLE IF NOT EXISTS tasks (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(100) NOT NULL,
+    descricao VARCHAR(500),
+    prioridade VARCHAR(255) NOT NULL CHECK (prioridade IN ('BAIXA','MEDIA','ALTA')),
+    data_limite TIMESTAMP NOT NULL,
+    concluida BOOLEAN NOT NULL DEFAULT FALSE,
+    categoria VARCHAR(50) NOT NULL,
+    criada_em TIMESTAMP NOT NULL
+);
